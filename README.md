@@ -1,2 +1,2 @@
-# L4B-Kubernetes
-Jethro's repository for Kubernetes Lab 
+# Kubernetes of Jetho
+
